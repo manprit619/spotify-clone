@@ -1,3 +1,6 @@
+
+Don't hesitate to pull down the code and play around.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
